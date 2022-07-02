@@ -4,8 +4,8 @@ It's a React JS responsive todo-list webpage. In this webpage, we will create, u
 In this webpage, the localStorage is used to store the tasks, because whenever we reload the webpage then, already created tasks will not delete.
 React-js is used for frontend and CSS, Bootstrap is used for styling the webpage.
 
-Language Used : HTML, CSS, ReactJS, Bootstrap
-Software Used : VS Code
+Language Used : HTML, CSS, ReactJS, Bootstrap.
+Software Used : VS Code.
 
 Website-link : https://things-to-do-list.netlify.app/
 
@@ -13,4 +13,5 @@ Website-link : https://things-to-do-list.netlify.app/
 
 
 Updating the Task :
+
 ![Screenshot (396)](https://user-images.githubusercontent.com/89103644/177007755-4d6f41d4-b1dc-4e4c-9fb6-982e0779cf41.png)

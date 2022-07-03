@@ -40,7 +40,7 @@
   font-family: 'Poppins', sans-serif;
 }
 .task-container {
-  height: 800px;
+  height: 530px;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
